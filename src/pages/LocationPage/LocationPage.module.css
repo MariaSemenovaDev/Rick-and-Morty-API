@@ -1,11 +1,11 @@
-.episodes {
+.locations {
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
 }
 
 
-.episodeLink {
+.locationLink {
     font-weight: 400;
     text-align: left;
 }
